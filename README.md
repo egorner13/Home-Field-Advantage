@@ -36,3 +36,16 @@ So, generally speaking, teams performed better at Home compared to Away. However
 best? Who's finishing the highest in the league?
 
 ## Does "Home Field Advantage" and Home vs. Away performance have relevance when determining position in the final standings? 
+
+
+### Final Conclusions
+1. "Home Field Advantage" is a phenomena that generally existed in the English Premier League over the 2021 - 2022 Season
+    1. Teams generally performed better at Home than Away.
+2. Teams that scored significantly more goals at Home than Away finished higher in the standings than their counterparts
+3. Teams with the smallest difference in goals allowed at Home and Away finished at polar opposites of the table, either near the top or near the bottom
+    1. Good teams had a good defense both Home and Away, and likewise bad teams had a bad defense both Home and Away
+4. Teams with the smallest difference in points gained at Home and Away finished at polar opposites of the table, either near the top or near the bottom
+    1. Good teams performed well both Home and Away, and likewise bad teams performed poorly both Home and Away
+
+## Disclaimer
+For those who have a Tableau license and would like to download my workbook, it can be found above titled ""
