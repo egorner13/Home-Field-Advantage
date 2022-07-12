@@ -48,4 +48,4 @@ best? Who's finishing the highest in the league?
     1. Good teams performed well both Home and Away, and likewise bad teams performed poorly both Home and Away
 
 ## Disclaimer
-For those who have a Tableau license and would like to download my workbook, it can be found above titled ""
+For those who have a Tableau license and would like to download my workbook, it can be found above titled "HomeFieldAdvantage.twbx"
