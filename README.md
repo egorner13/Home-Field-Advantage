@@ -82,7 +82,7 @@ pack teams"), it isn't a perfect conclusion.
 
 ### Final General Conclusions
 1. "Home Field Advantage" is a phenomena that generally existed in the English Premier League over the 2021 - 2022 Season
-    1. Teams generally performed better at Home than Away.
+    1. Teams generally performed better at Home than Away
 2. Teams that scored significantly more goals at Home than Away finished higher in the standings than their counterparts
 3. Teams with the smallest difference in goals allowed at Home and Away finished at polar opposites of the table, either near the top or near the bottom
     1. Good teams had a good defense both Home and Away, and likewise bad teams had a bad defense both Home and Away
