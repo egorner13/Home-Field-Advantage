@@ -90,4 +90,4 @@ pack teams"), it isn't a perfect conclusion.
     1. Good teams performed well both Home and Away, and likewise bad teams performed poorly both Home and Away
 
 ## Disclaimer
-For those who have a Tableau license and would like to download my workbook, it can be found above titled "HomeFieldAdvantage.twbx".
+For those who have a Tableau license and would like to download my workbook, it can be found above titled "HomeFieldAdvantage.twbx". Tables connected through SQL can be found here as well.
