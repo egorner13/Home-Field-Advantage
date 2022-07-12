@@ -8,3 +8,13 @@ In the English Premier League, 20 teams play 19 games at Home and Away, and coll
 When teams play, one factor that goes under the radar when discussing team performance and getting as many points as possible is "Home-Field Advantage". This is the proposed phenomena that because you are playing on your home field, where your fans are watching you play, you in turn play better and perform at a higher level. So, in the context of the recently finished 2021-2022 season, how prominent was "Home-Field Advantage"?
 
 ## Was "Home Field Advantage" a real phenomena during the 2021 - 2022 season?
+<img width="652" alt="Graph #2" src="https://user-images.githubusercontent.com/73618269/178386146-f57fedaf-a19e-45e9-bfa3-71ce6ab6e615.png">
+Above we see a box-and-whisker plot depicting the total goals scored by a teams in the English Premier League both Home and Away. With a higher average, a higher 25th 
+percentile, and a higher 75th percentile, it appears as though teams generally score more goals at Home compared to Away.
+
+<img width="649" alt="Graph #3" src="https://user-images.githubusercontent.com/73618269/178386143-e830934d-df88-49cf-99f9-fe0a5a85560f.png">
+Because we've already seen that teams score more goals Home compared to Away, we already know that the average goals allowed Away is greater than at Home. However, 
+it's interesting to look at the distribution of data to see how many goals each team allows.
+
+At Home, teams generally allow 15-30 goals total, hence why the box-and-whisker plot appears so condensed. The 4 teams that didn't fall within this range look like 
+significant outliers in this data. Away, the total amount of goals allowed is significantly more spread out. However, with a larger IQR and a significantly higher 75th quartile (25th quartile's being very similar), we can confirm the prior conclusion that generally, more team allow more goals Away than at Home. 
